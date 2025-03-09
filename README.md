@@ -1,2 +1,2 @@
 # Solaris
-¡Bienvenido a Solaris Launcher!
+¡Bienvenido a Solaris Launcher
