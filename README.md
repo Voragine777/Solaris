@@ -1,2 +1,2 @@
-# Solaris
-¡Bienvenido a Solaris Launcher
+# Solaris Launcher
+¡La pagina oficial de Solaris Launcher!
